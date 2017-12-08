@@ -38,10 +38,13 @@
 
 *.pdb
 
+
+*
 DerivedDataCache/*
 
 Intermediate/*
 
-StarterContent/*
-
 Saved/*
+
+StarterContent/
+*
