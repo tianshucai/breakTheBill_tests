@@ -1,14 +1,14 @@
-newmtl gate:mia_default_SG_01
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd puzzleRoom_swatches.png
-Ni 1.00
 newmtl gate:mia_default_SG_03
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd wood_texture.png
+map_Kd floor_wood_longPlanks.png
+Ni 1.00
+newmtl gate_wall:mia_default_SG_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puzzleRoom_swatches.png
 Ni 1.00
